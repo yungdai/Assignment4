@@ -11,7 +11,7 @@
 // Declaration
 NSString *getRandomMake(NSArray *);
 
-int main(int argc, const char * argv[]) {
+int main3(int argc, const char * argv[]) {
     @autoreleasepool {
         NSArray *makes = @[@"Honda", @"Ford", @"Nissan", @"Porsche"];
         NSLog(@"Selected a %@", getRandomMake(makes));

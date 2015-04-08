@@ -10,6 +10,7 @@
 		1AB92B791AD5ABA400150036 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB92B781AD5ABA400150036 /* main.m */; };
 		1AB92B801AD5AECA00150036 /* main 2.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB92B7F1AD5AECA00150036 /* main 2.m */; };
 		1AB92B861AD5B61A00150036 /* main 3.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB92B851AD5B61A00150036 /* main 3.m */; };
+		1AB92B881AD5B9A400150036 /* StaticFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB92B871AD5B9A400150036 /* StaticFunctions.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		1AB92B781AD5ABA400150036 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1AB92B7F1AD5AECA00150036 /* main 2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "main 2.m"; sourceTree = "<group>"; };
 		1AB92B851AD5B61A00150036 /* main 3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "main 3.m"; sourceTree = "<group>"; };
+		1AB92B871AD5B9A400150036 /* StaticFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StaticFunctions.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				1AB92B781AD5ABA400150036 /* main.m */,
 				1AB92B7F1AD5AECA00150036 /* main 2.m */,
 				1AB92B851AD5B61A00150036 /* main 3.m */,
+				1AB92B871AD5B9A400150036 /* StaticFunctions.m */,
 			);
 			path = Assignment4;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1AB92B861AD5B61A00150036 /* main 3.m in Sources */,
+				1AB92B881AD5B9A400150036 /* StaticFunctions.m in Sources */,
 				1AB92B801AD5AECA00150036 /* main 2.m in Sources */,
 				1AB92B791AD5ABA400150036 /* main.m in Sources */,
 			);
