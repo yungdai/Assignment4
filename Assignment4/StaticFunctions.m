@@ -8,11 +8,11 @@
 
 #import <Foundation/Foundation.h>
 // Static function declaration
-static int getRandomInteger(int, int);
+//static int getRandomInteger(int, int);
 
 // Static function implementation
-static int getRandomInteger(int minimum, int maximum) {
-    return arc4random_uniform((maximum - minimum) + 1) + minimum;
-}
+//static int getRandomInteger(int minimum, int maximum) {
+//    return arc4random_uniform((maximum - minimum) + 1) + minimum;
+//}
 
 

@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-int main (int argc, char * argv[]) {
+int mainChallenge2 (int argc, char * argv[]) {
     @autoreleasepool {
         char c, d;
         c = 'd';
