@@ -19,7 +19,7 @@ int whichIsLarger(int a, int b){
     return 0;
 }
 
-int main(int argc, const char * argv[]) {
+int mainChallenge5(int argc, const char * argv[]) {
     @autoreleasepool {
         int valueA = 6;
         int valueB= 7;

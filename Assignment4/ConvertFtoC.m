@@ -15,7 +15,7 @@ float convertFahrenheitToCelcius(float fahrenheit) {
     return celcius;
 }
 
-int main4(int argc, const char * argv[]) {
+int mainChallenge1(int argc, const char * argv[]) {
     @autoreleasepool {
         float convertedNumber = convertFahrenheitToCelcius(27);
         NSLog(@" 23 degrees Farenheit is %f degrees Celcius", convertedNumber);
