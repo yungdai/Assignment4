@@ -14,7 +14,7 @@ int countByTwo() {
     return currentCount;
 }
 
-int main(int argc, const char * argv[]) {
+int main5(int argc, const char * argv[]) {
     @autoreleasepool {
         NSLog(@"%d", countByTwo());    // 2
         NSLog(@"%d", countByTwo());    // 4
