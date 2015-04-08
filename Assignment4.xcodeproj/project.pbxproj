@@ -13,6 +13,8 @@
 		1AB92B881AD5B9A400150036 /* StaticFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB92B871AD5B9A400150036 /* StaticFunctions.m */; };
 		1AB92B8A1AD5BB8600150036 /* StaticLocalVariables.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB92B891AD5BB8600150036 /* StaticLocalVariables.m */; };
 		1AB92B8F1AD5BD2A00150036 /* CarUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB92B8E1AD5BD2A00150036 /* CarUtilities.m */; };
+		1AB92B931AD5C1B600150036 /* ConvertFtoC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB92B921AD5C1B600150036 /* ConvertFtoC.m */; };
+		1AB92B951AD5C21C00150036 /* Challenge 2.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AB92B941AD5C21C00150036 /* Challenge 2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,6 +38,8 @@
 		1AB92B891AD5BB8600150036 /* StaticLocalVariables.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StaticLocalVariables.m; sourceTree = "<group>"; };
 		1AB92B8D1AD5BCCE00150036 /* CarUtilities.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CarUtilities.h; sourceTree = "<group>"; };
 		1AB92B8E1AD5BD2A00150036 /* CarUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CarUtilities.m; sourceTree = "<group>"; };
+		1AB92B921AD5C1B600150036 /* ConvertFtoC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ConvertFtoC.m; path = Assignment4/ConvertFtoC.m; sourceTree = "<group>"; };
+		1AB92B941AD5C21C00150036 /* Challenge 2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "Challenge 2.m"; path = "Assignment4/Challenge 2.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +56,7 @@
 		1AB92B6C1AD5ABA400150036 = {
 			isa = PBXGroup;
 			children = (
+				1AB92B961AD5C22700150036 /* Challenges */,
 				1AB92B771AD5ABA400150036 /* Assignment4 */,
 				1AB92B761AD5ABA400150036 /* Products */,
 			);
@@ -77,6 +82,15 @@
 				1AB92B8E1AD5BD2A00150036 /* CarUtilities.m */,
 			);
 			path = Assignment4;
+			sourceTree = "<group>";
+		};
+		1AB92B961AD5C22700150036 /* Challenges */ = {
+			isa = PBXGroup;
+			children = (
+				1AB92B921AD5C1B600150036 /* ConvertFtoC.m */,
+				1AB92B941AD5C21C00150036 /* Challenge 2.m */,
+			);
+			name = Challenges;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,6 +153,8 @@
 				1AB92B8F1AD5BD2A00150036 /* CarUtilities.m in Sources */,
 				1AB92B881AD5B9A400150036 /* StaticFunctions.m in Sources */,
 				1AB92B801AD5AECA00150036 /* main 2.m in Sources */,
+				1AB92B931AD5C1B600150036 /* ConvertFtoC.m in Sources */,
+				1AB92B951AD5C21C00150036 /* Challenge 2.m in Sources */,
 				1AB92B791AD5ABA400150036 /* main.m in Sources */,
 				1AB92B8A1AD5BB8600150036 /* StaticLocalVariables.m in Sources */,
 			);
