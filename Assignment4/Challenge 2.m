@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 Yung Dai. All rights reserved.
 //
 
+
+// What output would you expect from the following program?
 #import <Foundation/Foundation.h>
 
 int mainChallenge2 (int argc, char * argv[]) {

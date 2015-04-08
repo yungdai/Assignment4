@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 Yung Dai. All rights reserved.
 //
 
+
+// Write a program that has a function that converts 27° from degrees Fahrenheit (F) to degrees Celsius (C) using the following formula: C = (F - 32) / 1.8
 #import <Foundation/Foundation.h>
 
 float convertFahrenheitToCelcius(float fahrenheit) {

@@ -8,12 +8,14 @@
 
 #import <Foundation/Foundation.h>
 
+// Write a program that defines a function that excepts string and returns the result.
+
 NSString* saySomething(NSString* something) {
     NSLog(@"%@ was the chosen thing", something);
     return something;
 }
 
-int main(int argc, const char * argv[]) {
+int mainChallenge4(int argc, const char * argv[]) {
     @autoreleasepool {
         NSString* word = saySomething(@"I said something");
         NSLog(@"%@ was inside the saySomething function", word);
